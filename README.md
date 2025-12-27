@@ -1,5 +1,4 @@
 # youtube-video-views-predictor
-# YouTube Video Views Predictor
 
 This project predicts YouTube video views using **Linear Regression** based on video engagement and metadata features.
 
